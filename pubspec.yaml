@@ -1,0 +1,25 @@
+name: myproject
+description: Mollie Payments Integration into DartT
+authors: Gregory Tombeur from Vitruvian
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  url_launcher: ^6.1.14
+  uni_links: ^0.5.1
+  mollie_flutter: ^1.1.6
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
