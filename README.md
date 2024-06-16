@@ -9,7 +9,7 @@ I needed a Dart integration of Mollie and created it myself because there was no
 In this example I only provided Bancontact but others are easily integratable.
 The tricky part is the handling when the payment succeeds by its scheme and I added comments to make things clear.
 <br><hr>
-Vitruvian
+Vitruvian<br>
 Gregory Tombeur
 
 
